@@ -1,3 +1,7 @@
 [
+    "ValidateErrorResult",
+    "ValidateMethod",
+    "ValidateRule",
+    "ValidateRuleMap",
     "Validation"
 ]
