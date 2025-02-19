@@ -1,0 +1,15 @@
+{
+    "name": "mikeneko-plugin-validation",
+    "description": "validation window package of SPA (Single Page Action) framework \"mikeneko\".",
+    "author": "masato nakatsuji",
+    "license": "MIT",
+    "version":"1.0.0",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/masatonakatsuji2021/mikeneko-plugin-validation.git"
+    },
+    "devDependencies": {
+        "@types/node": "^20.10.1",
+        "mikeneko-corelib": "^1.0.0"
+    }
+}
