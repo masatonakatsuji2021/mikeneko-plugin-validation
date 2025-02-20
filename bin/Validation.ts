@@ -3,9 +3,12 @@ import { ValidateRuleMap, ValidateRuleMaps } from "ValidateRuleMap";
 import { ValidateErrorResult } from "ValidateErrorResult";
 import { ValidateMethod } from "ValidateMethod";
 
+export * from "ValidateRule";
+export * from "ValidateRuleMap";
+export * from "ValidateErrorResult";
+
 /**
  * ***ValidateOption***
- * 
  */
 export interface ValidateOption {
 
